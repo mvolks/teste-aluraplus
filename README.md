@@ -1,7 +1,7 @@
 # teste-aluraplus
 
 ## segundo site teste
-*link: https://mvolks.github.io/teste-aluraplus/
+
 
 ## ##descrição temporaria
 
